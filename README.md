@@ -1,14 +1,24 @@
-# Welcome to your Lovable project
+# Decision Log
+
+add this but without plag Written Explanation (DECISIONS.md, 1 page max)
+
+Answer these, briefly:
+
+1. Why this ingestion strategy over the obvious alternative you rejected?
+
+2. One trade-off you made under the time limit, and what you’d do with a real week.
+
+3. Where did you use AI tools, and what did you personally verify or change afterward?
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/2f26792d-c859-494f-8edd-78b19688afcc).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +30,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
