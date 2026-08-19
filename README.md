@@ -8,14 +8,6 @@ The project focuses on creating a polished, responsive SaaS experience with stro
 
 ---
 
-## ✨ Live Preview
-
-🌐 **Live Demo:** `YOUR_DEPLOYED_URL`
-
-📦 **Repository:** `YOUR_GITHUB_REPOSITORY_URL`
-
----
-
 ## 🎯 What is Codeora?
 
 Modern developers often switch between multiple tools to manage projects, tasks, code activity, and technical problems.
